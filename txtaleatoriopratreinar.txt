@@ -38,3 +38,4 @@ $ git push origin master           #E aqui você publica o código no seu repori
 $ git clone https://github.com/SeuUsuarioGITHUB/SeuReprositório.git
 #Aqui ele faz a clonagem do seu repositório para que você consiga trabalhar em outras máquinas
 
+$ git pull origin master      #Aqui ele faz o dowload do ultimo commit do meu repositório para minha máquina incluindo novos arquivos
