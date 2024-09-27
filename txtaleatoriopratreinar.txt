@@ -1,0 +1,35 @@
+Nesse arquivo irei deixar o código aprendido no treino de git e git hub: 
+
+
+
+$ git init     #inicializa o git localmente 
+
+
+$ git status            #O git status serve para ver os status de changes dentro dos arquivos
+
+
+$ git add .                              #Seleciona os arquivos que você deseja manipular
+$ git add nome do arquivo                #Com o ponto selciona todos os arquivos, mas você pode 
+                                         #selecionar escrevendo os seus nomes
+
+
+$ git status     
+
+
+$ git config --global user.email"seu email@gmail.com"     #Define globalmente o email que o representará toda vez que comitar
+
+
+$ git config --global user.name"Ely"                     #Define o seu nome de usuário
+
+
+
+
+$ git remote add origin https://github.com/SeuNomeNoGitHub/SeuReporsitório.git     
+#Aqui você adiciona o seu reprositório e o conecta com git 
+
+
+
+$ git commit -a -m "Primeiro Commit"             #Aqui voce lança o seu commit 
+
+
+$ git push origin                  #E aqui você publica o código no seu reporitório como main
