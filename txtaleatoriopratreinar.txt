@@ -32,4 +32,9 @@ $ git remote add origin https://github.com/SeuNomeNoGitHub/SeuReporsitório.git
 $ git commit -a -m "Primeiro Commit"             #Aqui voce lança o seu commit 
 
 
-$ git push origin                  #E aqui você publica o código no seu reporitório como main
+$ git push origin master           #E aqui você publica o código no seu reporitório como main
+
+
+$ git clone https://github.com/SeuUsuarioGITHUB/SeuReprositório.git
+#Aqui ele faz a clonagem do seu repositório para que você consiga trabalhar em outras máquinas
+
